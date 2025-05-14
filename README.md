@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nujhath
+<!----- 👋 Hi, I’m Nujhath--->
 <!--- 👀 I’m interested in ...--->
-- 🌱 I’m currently learning Java
+<!----- 🌱 I’m currently learning Java--->
 <!---- 💞️ I’m looking to collaborate on ... --->
 <!----- 📫 How to reach me ...--->
 <!----- 😄 Pronouns: ...--->
