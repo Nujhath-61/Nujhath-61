@@ -1,8 +1,8 @@
-👋 Hi, I’m Nujhath
+<!--👋 Hi, I’m Nujhath
 
 👀 I’m interested in Web development,AI,ML
 
-🌱 I’m currently learning python
+🌱 I’m currently learning python -->
 
 <!---- 💞️ I’m looking to collaborate on ... --->
 <!----- 📫 How to reach me ...--->
